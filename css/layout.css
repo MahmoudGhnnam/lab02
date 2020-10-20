@@ -9,3 +9,29 @@ h1 {
 select {
     margin-top: 20px;
 }
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+}
+
+a.active{
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+label{
+    color: white;
+}
